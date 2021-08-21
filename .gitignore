@@ -13,6 +13,7 @@ RemoteSystemsTempFiles/
 */*/__ConfigTemp/
 */*/target/
 */target/
+target/
 */.idea/
 .settings/
 */.settings/
