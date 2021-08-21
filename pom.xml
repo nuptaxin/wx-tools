@@ -43,7 +43,7 @@
   <dependencyManagement>
     <dependencies>
       <dependency>
-        <groupId>com.soecode.wx-tools</groupId>
+        <groupId>com.okracode.wx</groupId>
         <artifactId>wx-tools</artifactId>
         <version>${project.version}</version>
       </dependency>
